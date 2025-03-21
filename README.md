@@ -130,9 +130,6 @@ The target variable is binary:
 - **Decision Tree** performed the worst, likely due to overfitting on the training data.
 - Ensemble methods like **Random Forest** and **k-NN** provided a good balance between accuracy and generalization.
 
-## License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.
 
 ## Acknowledgments
 
