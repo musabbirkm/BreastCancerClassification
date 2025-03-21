@@ -159,3 +159,5 @@ For questions, feedback, or collaboration opportunities, feel free to reach out:
    ```bash
    git clone https://github.com/musabbirkm/BreastCancerClassification.git
    cd BreastCancerClassification
+   pip install -r requirements.txt
+   
